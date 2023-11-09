@@ -1,0 +1,149 @@
+{
+    "questions": [
+      
+
+      {
+        "question": "Xin chào",
+        "answer": "Chào bạn. Một ngày của bạn như thế nào?"
+      },
+      {
+        "question": "Tên bạn là gì?",
+        "answer": "My name is ChatBot."
+      },
+      {
+        "question": "Tốt",
+        "answer": "Tuyệt"
+      },
+      {
+        "question": "Không có vấn đề gì",
+        "answer": "Tuyệt, hãy luôn giữ những cảm xúc tích cực như thế. Và hãy luôn nhớ rằng khi bạn gặp vấn đề hãy tìm đến tôi"
+      },
+      {
+        "question": "Không ổn",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tệ",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tôi gặp vấn đề",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tôi bị công kích trên mạng xã hội",
+        "answer": "Tôi hiểu tâm trạng của bạn hiện giờ có lẽ rất khó chịu. Bạn có thể kể cho tôi nghe cụ thể hơn lý do bạn bị công kích không?"
+      },
+      {
+        "question": "Cảm ơn bạn vì đã giúp đỡ",
+        "answer": "Những thông tin ở đây nhìn chung chỉ có thể nên tham khảo, bạn có thể thử hỏi những người xung quanh về vấn đề bạn đang mắc phải để từ đó họ sẽ có cách giải quyết cho bạn"
+      },
+
+
+
+      
+      {
+        "question": "Mình đang thích một bạn cùng lớp nhưng sợ bị mọi người trêu chọc, mình nên làm gì đây?",
+        "answer": "Thích một người là điều thật tuyệt vì cảm xúc của cậu chắc hẳn là chân thật và đáng yêu lắm nè. Nhưng mà tớ đang thắc mắc là không biết vì lý do gì mà cậu lại sợ bị mọi người trêu chọc nhỉ? Nếu cậu chọn giấu kín và sợ hãi thì sẽ bỏ lỡ mất khoảng thời gian vàng này mất thôi :((. Không cần phải nói rằng cậu nên mạnh mẽ thổ lộ vì yêu hay thích 1 người thì trái tim đã mạnh mẽ thể hiện nó rồi nè. Cậu nên thử cho mình cơ hội nói ra trong một hoàn cảnh thật phù hợp nhé! Và cũng đừng quên đầu tư cho tri thức và bản thân mình nè! Chúng ta đều dễ bị thu hút và ấn tượng bởi những người tài giỏi và xinh đẹp mà."
+      },
+      {
+        "question": "Mình muốn cân bằng giữa việc học và tình cảm",
+        "answer": "Phải nói là tình cảm và học tập hay công việc đều khó có thể thiếu trong cuộc sống của chúng ta nhỉ? Có lẽ cậu đang có một mối tình hay đang thích ai đó và cậu cũng khá lo cho tương lai của mình đây mà. Nhưng đừng quá lo lắng nhé, hãy xem tình yêu là động lực cho mọi thứ, khi tình yêu khiến cậu áp lực thì có lẽ cậu nên trò chuyện với nửa kia của mình rồi."
+      },
+      {
+        "question": "Mình muốn bỏ học để yêu 1 người",
+        "answer": "Việc bỏ học để yêu một người là việc rất thường gặp trong độ tuổi học sinh, để hiểu rõ hơn về mức độ quan trọng của việc vì ai đó mà ta phải bỏ học , thì ta nên lấy người đi trước trong gia đình hay người quen có thành tích tốt trong việc học đã giúp họ được gì trong tình trạng, kinh tế,... hiện tại đang sống như thế nào để làm ví dụ cho bản thân."
+      },
+      {
+        "question": "Mình có tính chiếm hữu người khác, muốn của họ là riêng mình thì phải làm sao ?",
+        "answer": "Phải thừa nhận là khi yêu thì chúng ta thường muốn đối phương là của mình và có một số suy nghĩ độc chiếm. Nhưng mà cậu biết đó, con chim khi bị nhốt trong lồng sẽ khiến nó mất tự do và nó sẽ rất buồn đó :((. Khi yêu thì bạn cũng muốn đối phương hạnh phúc và tự do phải không nào? Vì vậy hãy thoải mái và mở lòng ra hơn nhé! Trò chuyện với nửa kia của mình để thấu hiểu nhau hơn nè."
+      },
+      {
+        "question": "Dường như mọi người đã hiểu sai ý tôi và họ công kích tôi vì những lời bình luận đó",
+        "answer": "Đôi lúc sẽ thật khó để hiểu hết ý kiến của người khác, phải không nào? Chính vì vậy nên việc những người xung quanh không hiểu ý kiến của bạn không phải là một việc quá hiếm hoi. Bạn có thể thử việc nói rõ ý hơn cho họ hiểu, hay là thử diễn đạt theo cách khác để đảm bảo là bọn họ đều nắm được hết những gì bạn muốn truyền đạt nếu bọn họ thực sự không có ý xấu hay muốn hiểu bạn. Còn nếu họ chỉ muốn lợi dụng dịp đó để hùa theo và công kích bạn, đừng ngần ngại nói với những người xung quanh hay là chặn những tài khoản đó."
+      },
+
+
+
+      {
+        "question": "Bản thân thích học nhưng lại rất lười trong mọi việc, ảnh hưởng đến thành tích , mặc dù đã cố gắng ngồi vào bàn để học nhưng rồi lại lười mà chơi game, lướt wep,... phải làm sao để khắc phục tình trạng ấy?",
+        "answer": "Bạn thích học và nó thật tốt nèee. Hãy thử các phương pháp giúp bản thân tập trung hơn ví dụ như: tránh xa điện thoại hay các thiết bị điện tử có chứa mạng xã hội làm bạn xao nhãng, học tập trong một không gian mới, học cùng với những người bạn có trách nhiệm cao, thậm chí là xoá đi các ứng dụng làm bạn xao nhãng nè."
+      },
+      {
+        "question": "Việc yêu người khác qua game, mạng xã hội có thật sự tốt không?",
+        "answer": "Tình yêu sẽ không bao giờ là xấu nếu nó đơn thuần và chân thật cả. Tớ nghĩ là đã yêu rồi thì dù ngoài đời thật hay trên mạng xã hội đều ổn cả. Nhưng mà đừng làm dụng nó nhiều quá nhé! Và hãy sáng suốt trong mọi tình huống nè!"
+      },
+
+
+
+      {
+        "question": "Làm sao để gia đình có thể đầm ấm, quan tâm lẫn nhau hơn?",
+        "answer": "Mỗi gia đình đều có một vấn đề và hoàn cảnh khác nhau vì vậy việc trò chuyện và thấu hiểu từng thành viên trong gia đình sẽ giúp gắng kết hơn. Việc bắt đầu trò chuyện với một người nào đó mà cậu thấy thân thiết trong gia đình sẽ giúp mọi thứ tốt hơn nè."
+      },
+
+
+      {
+        "question": "Có cách nào có thể khiến bản thân không thấy chán với đam mê khi hoạt động 1 mình không.",
+        "answer": "Đam mê nên là thứ bản thân luôn tìm thấy hứng thú khi làm hoặc nghĩ về nó. Chính vì vậy hãy nhìn vào bản thân mình và tự hỏi rằng bạn có đang thật sự yêu thích nó hay không và đặt mục tiêu cho mình để có có động lực phấn đấu hơn nhé."
+      },
+
+
+      {
+        "question": "Tôi đang bị stress",
+        "answer": "Thật đáng tiếc, có lẽ cậu đang gặp phải điều gì đó khiến cậu mệt mỏi và áp lực. Nhưng đừng quá lo lắng nhé, mọi chuyện sẽ qua thôi nè, đây là cảm xúc và cũng là một dấu hiệu rõ ràng của việc cơ thể và tâm trí của cậu cần nghỉ ngơi rồi đó."
+      },
+      {
+        "question": "Có cách nào (làm thế nào) để thư giãn hay giảm stress không?",
+        "answer": " Sau đây là 5 cách có thể giúp bạn thư giãn hơn nè!: 1 Hít thở sâu: hít thở trong 3 giây sau đó thở ra từ từ và lặp đi lặp lại ít nhất 3 lần nè! 2 Bạn cũng có thể nghe những bản nhạc hoặc podcast để chữa lành tâm hồn mình và có thêm động lực nhé. 3 Hãy chơi thể thao hoặc vận động gì đó để cơ thể bạn được giải phóng nhé! Hoặc bạn cũng có thể tản bộ và nhìn ngắm mọi thứ xung quanh nè! Những chuyển động và thanh âm của cuộc sống sẽ giúp cậu thư thái hơn. 4 Có thể rửa mặt bằng nước lạnh và ăn một món ăn vặt mà cậu yêu thích. Hãy tự yêu thương và nuông chiều bản thân nhé! 5 Thật tuyệt nếu cậu trò chuyện với bạn bè và người thân. Hoặc vui đùa với thú cưng của mình. Đã bao lâu rồi cậu chưa làm những điều đó vậy?"
+      },
+      {
+        "question": "Tôi cảm thấy chán nản. Tôi cảm thấy buồn bã và mệt mỏi với cuộc sống",
+        "answer": "Oh nếu cảm thấy quá mệt mỏi cậu hãy tạm gác lại công việc một chút. Chỉ một chút thôi rồi chúng ta sẽ quay lại. Mọi thành quả sẽ được đền đáp, chỉ cần cậu cố gắng. Cậu nỗ lực mỗi ngày không phải để người khác xem, người khác nghĩ cậu như thế nào, và cũng không cần để ai phải cảm động. Tớ tin cậu khố gắng như thế để theo đuổi ước mơ và lựa chọn những gì cậu xứng đáng."
+      },
+      {
+        "question": "Tôi cảm thấy mình không phát triển, mình thụt lùi, mình không bằng người khác.",
+        "answer": "Hãy nhìn xung quanh nào, mọi thứ vẫn đang âm thầm đi lên và xảy ra phải không ? mong rằng cậu cũng nhìn ra bản thân mình đang đi lên ở bất kỳ một khía cạnh nào mà cậu đang theo đuổi.  Đừng lo lắng nữa nhé! Hành trình của cậu đã đủ rực rỡ để soi sáng cho kết quả rồi."
+      },
+      {
+        "question": "Tớ không thể nào quên được những buồn đau trong quá khứ",
+        "answer": "Tớ từng nghe rằng: một tâm trí lo sợ sẽ cản đường đến những giấc mơ. Vấn đề nằm ở đó cậu à. Chúng ta ai cũng cần phải gác bỏ những chuyện trong quá khứ vì nó không còn quan trọng nữa. Điều duy nhất quan trọng chính là bây giờ cậu muốn trở thành người như thế nào. Hãy nhìn về phía trước và đừng ngoảnh đầu lại nữa cậu nhé!."
+      },
+      {
+        "question": "Tớ lo lắng với mọi thứ, tớ không biết nên làm gì với tương lai của tớ",
+        "answer": "Yên tâm nhé, nếu hôm nay cậu chưa tìm ra điều giúp cậu tỏa sáng. Vì chỉ cần cậu luôn hết mình trải nghiệm, thì câu trả lời sẽ nằm ở cuối hành trình. Chúng ta rồi sẽ thành công với tất cả sự nỗ lực của chính mình. Chúc cậu luôn vững bước trên hành trình của chính mình."
+      },
+      {
+        "question": "Tớ không thể kiểm soát được cảm xúc và tâm lý của mình",
+        "answer": "Không sao cả, mọi cảm xúc của cậu luôn đáng được trân trọng. Thật vui nếu cậu có thể bộc lộ được nó ra, hãy tươi cười nhiều hơn và khóc thật to nếu cậu buồn nhé! Và cả yêu thương bản thân cậu hơn nữa bằng cách lắng nghe và thấu hiểu để chữa lành đứa trẻ bên trong cậu nha"
+      },
+      {
+        "question": "Làm sao để chữa lành vết thương lòng, tớ muốn bản thân mạnh mẽ hơn",
+        "answer": "Cậu không thể chữa lành vết thương trong cậu nếu cậu cứ giả vờ không đau. Cậu không cần phải cố tỏ ra mạnh mẽ, hãy chấp nhận nỗi đau đó và đối đầu với nó.  Cậu đang làm mọi thứ rất tốt rồi, tin vào bản thân mình cậu nhé!"
+      },
+      {
+        "question": "Tớ nhớ cậu ấy, tớ không thể quên được cậu ấy hay tớ nhớ người yêu cũ (nyc)",
+        "answer": "Có những người tuyệt vời mà ta gặp không đúng lúc, cũng có những người trở nên tuyệt vời vì ta gặp họ đúng lúc. Tất cả mọi cuộc gặp gỡ đều được được sắp đặt để giúp ta trưởng thành hơn. Vào một ngày đẹp trời nào đó, người ấy sẽ xuất hiện trong cuộc đời của cậu, cố gắng cùng cậu mỗi ngày tốt hơn thì sẽ tuyệt vời hơn nhiều phải không? Vì vậy đừng quay đầu nhìn lại nữa nhé, tương lai tốt đẹp như vậy nhất định không được bỏ lỡ cậu nha."
+      },
+      {
+        "question": "Ngày hôm nay của tớ thật tệ",
+        "answer": "Hôm nay vất vả rồi, gửi cậu một cái ôm thật chặt nhé! Và cũng hãy tự ôm lấy bản thân mình nào…thương thương…"
+      },
+      {
+        "question": "Tôi không tốt, tôi thật thảm hại và vô dụng, chẳng một ai cần tôi cả",
+        "answer": "Cậu thân mến, cậu cũng là một mảnh ghép hoàn hảo ở nơi cậu thuộc về, đừng đánh giá thấp bản thân. Tớ tin rằng sớm muộn gì cậu cũng sẽ tìm thấy nơi phù hợp cho riêng mình vì vậy đừng bao giờ dừng lại hay từ bỏ nhé!."
+      },
+      {
+        "question": "Tớ cảm thấy cạn kiệt năng lượng",
+        "answer": "Không ai có thể năng lượng 100% mỗi ngày. Và không sao đâu, cậu đã làm rất tốt rồi, nghỉ ngơi để được nạp lại năng lượng nàooo"
+      },
+      {
+        "question": "Có vẻ như không ai xem trọng tôi và những gì tôi làm cả. Như vậy có phải tôi thất bại không?",
+        "answer": "Cách đo lường thành công không phải người khác nghĩ gì về cậu mà là cậu nghĩ gì về bản thân. Hãy leo từng nấc thang kiên trì để chạm tới thành công của chính mình nhé!."
+      },
+      {
+        "question": "Tôi không biết phải làm gì,  lúc này có quá nhiều việc phải làm và tôi không biết bắt đầu từ đâu.",
+        "answer": "Đừng cố gắng làm tất cả mọi thứ cùng lúc. Hãy ưu tiên làm từng việc một nhé! Chưa bao giờ có ai chèo hai tay hai thuyền mà thành công cả."
+      }
+      
+    ]
+  }

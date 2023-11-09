@@ -72,7 +72,7 @@ const getChatResponse = (incomingChatDiv) => {
       } else {
         pElement.classList.add("error");
         pElement.textContent =
-          "Rất tiếc, tôi chưa được lập trình để trả lời các câu hỏi thế này. Nếu câu hỏi bạn hỏi có liên quan nhiều đến vấn đề về công kích trên mạng xã hội mà vẫn không nhận được câu trả lời, hãy thử nhấn vào link này để xem những gợi ý về những câu hỏi chúng tôi đã soạn và từ đó có thể nhận được câu trả lời cho vấn đề bạn gặp phải: https://docs.google.com/document/d/1wijhLws80fbmQGlYOjpBZtq2n5_ux9H1Ro2E-Rbb2g4/edit";
+          "Rất tiếc, tôi chưa được lập trình để trả lời các câu hỏi thế này.";
       }
 
       incomingChatDiv.querySelector(".typing-animation").remove();

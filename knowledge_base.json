@@ -148,7 +148,7 @@
         "question":"Tớ muốn bỏ cuộc rồi, tớ không muốn tiếp tục nữa, mọi thứ dường như đang chống lại tớ",
         "answer":"Cậu ơi! Làm gì có ai trên đời này sau một đêm là thành danh, tất cả đều là bách luyện thành thép. Nỗ lực là một tên gọi khác của kỳ tích. Tớ tin rằng cậu đang đi đúng trên hành trình của mình rồi. Dẫu cho bóng đêm kéo dài thật lâu, khung cảnh bị che lấp khuất. Chỉ cần cậu ngẩng đầu lên, vẫn có thể thấy được ánh sao lấp lánh"
       },
-      {
+            {
         "question":"Tớ không tự tin vào khả năng và bản thân tớ",
         "answer":"Tớ chỉ muốn nói với cậu rằng tin tớ nhé! Nếu cậu thử một lần dốc hết tâm sức làm điều gì đó. Cậu sẽ ngạc nhiên rằng tại sao bản thân lại có thể giỏi đến thế. Và đó mới chính là cậu, người mà khi bé cậu luôn mơ ước trở thành"
       },
@@ -162,17 +162,9 @@
       },
       {
         "question":"Làm sao để biết được bản thân mình đang bị trầm cảm",
-        "answer":"Dưới đây là 9 dấu hiệu trầm cảm điển hình của bệnh cần được cảnh báo và điều trị sớm : 
--Tâm trạng chán nản thường xuyên, gần như mỗi ngày. 
--Giảm quan tâm hay niềm vui với tất cả hoạt động, hay sở thích. 
--Chán ăn, sụt cân hoặc thèm ăn, tăng cân.
-- Mất ngủ thường xuyên. 
--Kích động hoặc thao tác chậm, phản ứng chậm, nói chậm hơn bình thường. 
--Thường xuyên mệt mỏi và mất năng lượng. 
--Có cảm giác bất lực, tội lỗi quá mức, tự thấy bản thân kém cỏi.
-- Suy giảm khả năng tập trung, do dự, khó quyết định mọi thứ.
-- Thường xuyên có ý nghĩ về cái chết, thường xuyên có ý định tự tử
-"
+        "answer": "9 dấu hiện của bệnh trầm cảm: Chán nản, giảm quan tâm đến niềm vui, Chán ăn, Mất ngủ, Kích động hoặc thao tác chậm, Thường mệt mỏi và mất năng lượng, Có cảm giác bất lực và tội lỗi, Suy giảm khả năng tập trung, Thường nghĩ về cái chết "
+        
+
       }
       
     ]
